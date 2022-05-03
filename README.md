@@ -15,7 +15,7 @@ Typical things inside a README file:
 
 _Created by Maegan Stayrook_
 
-In her MERN Full Stack Development course., Maegan had fun creating a much smoother application of the ball simulation exercise. This one, called "Random Walk," implements freely-moving circles bouncing off of the 'walls' of the box. The original assignment did not have much of the CSS styling she implemented into it after the initial assignment was complete.
+In her MERN Full Stack Development course, Maegan had fun creating a much smoother application of the ball simulation exercise. This one, called "Random Walk," implements freely-moving circles bouncing off of the 'walls' of the box. The original assignment did not have much of the CSS styling she implemented into it after the initial assignment was complete.
 
 As time goes on, she plans to revisit or simply recreate it to implement more features, such as:
 
