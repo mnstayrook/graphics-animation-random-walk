@@ -1,0 +1,27 @@
+#area {
+    position: relative;
+    background-color: #e2f8f9;
+    margin: 1em auto;
+    border-style: ridge;
+    border-color: #3257AD;
+  }
+  .ball {
+    background-color: black;
+    position: absolute;
+    display: inline-block;
+    border-radius: 50%;
+  }
+
+  body {
+    background-color: #D6E9D5;
+  }  
+  
+  h1 {
+    font-family: Papyrus;
+    text-align: center;
+  }
+
+p {
+  font-family: Garamond;
+  text-align: center;
+}
