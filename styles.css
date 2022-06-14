@@ -18,19 +18,20 @@ body {
 }  
   
 div.topnavbar {
-  text-align: center;
-  display: grid;
-  grid-template-columns: 5fr 5fr 5fr 5fr;
-  align-items: center;
-  width: 750px;
-  margin: auto;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 5fr;
+    align-items: center;
+    width: 750px;
+    margin: auto;
+  
 }
 .topnavbar a {
-  padding: 1rem;
-  color: black;
-  text-align: center;
-  text-decoration: none;
-  font-size: 18px;
+    padding: 1rem;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
 }
 .topnavbar a:link {
     color: darkblue;
