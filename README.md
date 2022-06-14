@@ -11,15 +11,19 @@ Typical things inside a README file:
 
 --->
 
-# Graphics Animation Random Walk
+# Title: Graphics Animation Random Walk
 
 _Created by Maegan Stayrook_
 
+Description:
 In her MERN Full Stack Development course, Maegan had fun creating a much smoother application of the ball simulation exercise. This one, called "Random Walk," implements freely-moving circles bouncing off of the 'walls' of the box. The original assignment did not have much of the CSS styling she implemented into it after the initial assignment was complete.
 
+Roadmap:
 As time goes on, she plans to revisit or simply recreate it to implement more features, such as:
 
 - Having the balls interact with one another.
 - Have it swap colors when they hit the boundary or each other.
 - Give people the ability to add more with a left click or remove one by right-clicking it.
 - have them change sizes as they move to give them a sense of dimension and better motion.
+
+License: MIT License
